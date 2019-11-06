@@ -10,6 +10,11 @@ Thanks to [@liron-navon](https://github.com/liron-navon) for the initial Vue.js 
 This project is based off [shopify/skeleton-theme](https://github.com/shopify/skeleton-theme), checkout Slate for more information.
 
 get started
+
+```
+$ npm create slate-theme my-new-theme JakeHenshall/Shopify-Tailwind-Vue
+```
+or
 ```
 $ yarn create slate-theme my-new-theme JakeHenshall/Shopify-Tailwind-Vue
 ```

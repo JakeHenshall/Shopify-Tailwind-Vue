@@ -1,6 +1,6 @@
 {
-  "name": "starter-theme",
-  "version": "1.0.0-alpha.1",
+  "name": "slate-tailwind-vue",
+  "version": "1.0.0",
   "private": true,
   "author": "Shopify Inc., Jake Henshall",
   "description": "A starter project for Shopify, using Vue.js and Tailwindcss 1.0",
